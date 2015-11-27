@@ -1,0 +1,6 @@
+<project name="come.bread.demo" basedir=".">
+<target name="init" >
+ <echo "this is test build.xml"/>
+ </target>
+</project>
+
